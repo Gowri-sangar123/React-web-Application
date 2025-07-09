@@ -58,7 +58,7 @@ A modern React web application that displays news posts with pagination, view to
 ## Project Structure
 
 ```
-news-app/
+vite-project/
 ├── src/
 │   ├── components/          # React components
 │   │   ├── Header.jsx       # App header with user greeting
@@ -70,7 +70,7 @@ news-app/
 │   │   └── LoadingScreen.jsx # Loading animation
 │   ├── store/               # Redux store
 │   │   ├── store.js         # Store configuration
-│   │   └── postsSlice.js    # Posts state slice
+│   │   └── postSlice.js    # Posts state slice
 │   ├── App.jsx              # Main application component
 │   └── main.jsx             # Application entry point
 ├── package.json             # Dependencies and scripts
