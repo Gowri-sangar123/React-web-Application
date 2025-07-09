@@ -41,18 +41,18 @@ A modern React web application that displays news posts with pagination, view to
 
 1. **Install Dependencies**
    ```bash
-   cd news-app
-   pnpm install
+   cd vite-project
+   npm install
    ```
 
 2. **Start Development Server**
    ```bash
-   pnpm run dev
+   npm run dev
    ```
 
 3. **Build for Production**
    ```bash
-   pnpm run build
+   npm run build
    ```
 
 ## Project Structure
